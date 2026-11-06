@@ -1,0 +1,21 @@
+name: Hibajelentés
+description: Valami nem az elvárt módon működik
+labels: [bug]
+body:
+  - type: textarea
+    id: leiras
+    attributes:
+      label: Mi történt?
+      description: Mit vártál, és mi történt helyette?
+    validations:
+      required: true
+  - type: textarea
+    id: lepesek
+    attributes:
+      label: Reprodukálás lépései
+    validations:
+      required: true
+  - type: input
+    id: verzio
+    attributes:
+      label: Verzió vagy környezet

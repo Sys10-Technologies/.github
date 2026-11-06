@@ -1,0 +1,14 @@
+name: Fejlesztési javaslat
+description: Új funkció vagy változtatás javaslata
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problema
+    attributes:
+      label: Milyen problémát old meg?
+    validations:
+      required: true
+  - type: textarea
+    id: javaslat
+    attributes:
+      label: Javasolt megoldás

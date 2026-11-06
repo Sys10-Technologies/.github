@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Biztonsági hiba
+    url: https://github.com/Sys10-Technologies/.github/blob/main/SECURITY.md
+    about: Biztonsági hibát ne nyilvános issue-ban jelezz.
+  - name: Kapcsolat
+    url: https://sys10.tech
+    about: Üzleti megkeresés és általános kérdések
