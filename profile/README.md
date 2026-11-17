@@ -1,18 +1,18 @@
 <a href="https://sys10.tech">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.png">
-    <img src="assets/hero-dark.png" width="100%" alt="SYS10 Technologies. Egy ember felel az egészért. Helios, webfejlesztés, IT-üzemeltetés. Budapest.">
+    <img src="assets/hero-dark.png" width="100%" alt="SYS10 Technologies. Vállalati digitalizáció egy partnertől. Weboldal, szerver, vállalatirányítás, biztonság. Budapesti csapat, országosan.">
   </picture>
 </a>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/pillars-light.png">
-  <img src="assets/pillars-dark.png" width="100%" alt="Három pillér. 01 Helios: cégre szabott webes appok egy közös alapon, az ügyfél szerverén. 02 Webfejlesztés: gyors, saját kódbázisú weboldalak és webalkalmazások. 03 IT-üzemeltetés: havidíjért, írásban vállalt reakcióidővel, negyedévente kipróbált visszaállítással.">
+  <img src="assets/pillars-dark.png" width="100%" alt="Amit átveszünk. 01 Helios: egyedi vállalatirányítási rendszer, saját szerveren vagy dedikált felhőn. 02 Webfejlesztés: saját kódbázisú weboldalak és webalkalmazások, a Helioshoz kötve. 03 Infrastruktúra és biztonság: szerver, hálózat, mentés, havidíjért.">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/credo-light.png">
-  <img src="assets/credo-dark.png" width="100%" alt="Hitvallás. Egy ember felel az egészért. Mérem, nem ígérem. Nincs bezárás.">
+  <img src="assets/credo-dark.png" width="100%" alt="Amit írásban vállalunk. Egy partner felel az egészért. Mérjük, nem ígérjük. Nincs bezárás.">
 </picture>
 
 <a href="https://sys10.tech">
@@ -29,11 +29,13 @@
 
 <br>
 
-**One person is accountable for all of it.** Sys10 Technologies is based in Budapest and works in three areas:
+**Business digitalisation from one partner.** Sys10 is an IT team in Budapest, working nationwide. We take over a company's whole IT:
 
-- **Helios:** our own application platform for simple web apps shaped around how a business works, such as customers, job sheets, stock, rentals and approvals. It runs on your own server or a cloud machine assigned to you, and the data stays yours.
-- **Web development:** fast, custom-built websites, booking and quote flows, calculators and client portals.
-- **IT operations:** Microsoft 365 or Google Workspace, devices, networks, email and backups, for a monthly fee with written response times and restores tested every quarter.
+- **Helios:** our own business management system: a proven shared core with modules built for your company, such as customers, job sheets, stock, rentals and purchasing. It runs on your own server or a dedicated cloud machine, and the data stays yours.
+- **Websites and web apps:** fast, custom-built sites, booking and quote flows, calculators and client portals, connected to Helios.
+- **Infrastructure and security:** servers, dedicated cloud, office computers and network, backup and protection, for a monthly fee with written response times and restores tested every quarter.
+
+One partner is responsible for all of it.
 
 The first step is a 20-minute conversation: [info@sys10.tech](mailto:info@sys10.tech) · [sys10.tech](https://sys10.tech)
 
